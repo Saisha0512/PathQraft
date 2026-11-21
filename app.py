@@ -22,7 +22,7 @@ from ui.real_world import RealWorldMixin
 class App(MenuMixin, UtilitiesMixin, GridMixin, RealWorldMixin):
     def __init__(self, root):
         self.root = root
-        root.title("Q-Learning Pathfinding Simulator")
+        root.title("PathQraft : Q-Learning Pathfinder Simulator")
         root.geometry("800x700") # Initial size
 
         self.current_q_table = None
