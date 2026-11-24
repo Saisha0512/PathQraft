@@ -1,4 +1,4 @@
-# 🚀 PathQraft – Intelligent Pathfinding Using Q-Learning
+# PathQraft – Intelligent Pathfinding Using Q-Learning
 
 > **Intelligent Pathfinding Through Reinforcement Learning**
 
@@ -6,7 +6,7 @@ PathQraft is a Python-based pathfinding simulator that demonstrates the applicat
 
 ---
 
-## ⚠️ Disclaimer & Copyright Notice
+## Disclaimer & Copyright Notice
 
 This project is the intellectual property of its original author.
 
@@ -14,33 +14,33 @@ This project is the intellectual property of its original author.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 PathQraft explores how an intelligent agent can learn to navigate an environment through trial and error using Q-Learning.
 
 The project provides two simulation environments:
 
-- 🧱 **Grid-Based Pathfinding:** An agent learns to navigate a customizable grid while avoiding obstacles and reaching its destination.
-- 🌍 **Real-World Pathfinding:** An agent learns to navigate real-world road networks using geographical data obtained through OpenStreetMap.
+- **Grid-Based Pathfinding:** An agent learns to navigate a customizable grid while avoiding obstacles and reaching its destination.
+- **Real-World Pathfinding:** An agent learns to navigate real-world road networks using geographical data obtained through OpenStreetMap.
 
 Through an interactive Tkinter GUI, users can configure training parameters, execute learning episodes, and visualize the agent's progress and learned paths.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🔲 **Customizable Grid Environment** – Configure grid dimensions and obstacles.
-- 🗺️ **Real-World Map Integration** – Retrieve and visualize geographical road networks using OpenStreetMap and OSMnx.
-- 🤖 **Q-Learning Algorithm** – Train an agent to learn optimal navigation strategies.
-- 📈 **Learning Curve Visualization** – Observe the agent's learning progress during training.
-- 🎯 **Optimal Path Visualization** – Display the learned path from the starting point to the destination.
-- 🎞️ **Agent Animation** – Visualize the agent navigating through the environment.
-- ⚙️ **Adjustable Hyperparameters** – Experiment with learning rate, discount factor, exploration decay, and training episodes.
-- 🧰 **Utility Tools** – Access additional utilities through the graphical interface.
+- **Customizable Grid Environment** – Configure grid dimensions and obstacles.
+- **Real-World Map Integration** – Retrieve and visualize geographical road networks using OpenStreetMap and OSMnx.
+- **Q-Learning Algorithm** – Train an agent to learn optimal navigation strategies.
+- **Learning Curve Visualization** – Observe the agent's learning progress during training.
+- **Optimal Path Visualization** – Display the learned path from the starting point to the destination.
+- **Agent Animation** – Visualize the agent navigating through the environment.
+- **Adjustable Hyperparameters** – Experiment with learning rate, discount factor, exploration decay, and training episodes.
+- **Utility Tools** – Access additional utilities through the graphical interface.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 PathQraft uses **Q-Learning**, a model-free Reinforcement Learning algorithm, to help an agent learn the best actions to take in an environment.
 
@@ -67,7 +67,7 @@ Through repeated training episodes, the agent gradually improves its navigation 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -84,7 +84,7 @@ Through repeated training episodes, the agent gradually improves its navigation 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized into multiple modules to improve readability, maintainability, and code organization.
 
@@ -127,7 +127,7 @@ PathQraft/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run PathQraft locally.
 
@@ -177,7 +177,7 @@ The graphical application will launch, allowing you to explore the available pat
 
 ---
 
-## ⚙️ Configurable Hyperparameters
+## Configurable Hyperparameters
 
 PathQraft allows users to experiment with different Q-Learning parameters through its graphical interface.
 
@@ -191,7 +191,7 @@ PathQraft allows users to experiment with different Q-Learning parameters throug
 
 ---
 
-## 🌍 Simulation Environments
+## Simulation Environments
 
 ### 1. Grid-Based Pathfinding
 
@@ -224,7 +224,7 @@ The application also provides additional utilities through its graphical interfa
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Understand and implement Reinforcement Learning using Q-Learning.
 - Demonstrate how an agent learns through interaction with its environment.
@@ -234,7 +234,7 @@ The application also provides additional utilities through its graphical interfa
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project was developed as an academic demonstration of Reinforcement Learning and intelligent pathfinding.
 
@@ -250,10 +250,4 @@ Special thanks to the developers and communities behind the open-source technolo
 
 ---
 
-## 📧 Contact & Permissions
-
-For permissions, collaboration inquiries, or other project-related queries, please contact the original author directly.
-
----
-
-**PathQraft – Learning to Find the Way.** 🧭
+_**PathQraft – Learning to Find the Way.**_
